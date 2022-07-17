@@ -10,7 +10,7 @@ These projects have been undertaken to understand the language better and learn 
 * quiz_game.py: the computer will ask you 5 questions and evaluate your answers to give you the result.
 * stone_paper_scissors.py: stock, extremely friendly, gives you the score at the end.
 * password_manager.py: Planned
-* choose_your_own_adventure.py: Planned
+* choose_your_own_adventure.py: You manoauver your way in a sort of POV of my life. Nesting being used extensively here. 
 
 
 
