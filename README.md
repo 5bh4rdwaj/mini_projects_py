@@ -6,7 +6,7 @@ These projects have been undertaken to understand the language better and learn 
 
 ## Programmes Addressed
 [*] guess_numbers.py: Computer generates a random number, you have infinite attempts to guess that number. The number is chosen between 0 and the uppper limit that you give to the computer
-[ ] madlib_games.py: "Roses are red, violets are blue..." shenanigans
+[*] madlib_games.py: "Roses are red, violets are blue..." shenanigans
 
 
 
