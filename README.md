@@ -18,3 +18,5 @@ These projects have been undertaken to understand the language better and learn 
 ### LICENSE
 It is the GNU GPL 3, reuse allowed
 although no idea why anyone would copy this, but hey, makes me feel like I'm doing something important
+
+|| Through Deception Thou Shalt Wage War ||
