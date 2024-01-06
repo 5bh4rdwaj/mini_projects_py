@@ -3,7 +3,7 @@
 # first, we import the "random" module, which comes prebuilt in the py libraries
 import random
 
-top_of_range = input("Type a number: ")
+top_of_range = input("Type a number to establish the top range for the program to choose numbers from: ")
 
 #checking to see if input was a number greater than 0
 if top_of_range.isdigit():
