@@ -11,6 +11,7 @@ while True:
         break
 
     if user_input not in list_main:
+        print ("Give me a response I can play with, dammit")
         continue
 
     random_number = random.randint(0, 2)
